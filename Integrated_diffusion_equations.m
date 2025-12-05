@@ -65,7 +65,7 @@ nexttile(tcl)
 %    title('(B)')
     xlim([-.10 5.00])
     ylim ([-0.1 1.1])
-   xlabel('Reduced Time, t'' = Dt/d^{2}')
+   xlabel('Reduced Time, t/\tau = \pi^2Dt/4d^{2}')
    ylabel('Measurement, X_{1}')
 
 %% *************** IMPERMEABLE FILM ***************
